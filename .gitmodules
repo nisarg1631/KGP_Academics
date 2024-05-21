@@ -1,0 +1,48 @@
+[submodule "First_Year"]
+	path = First_Year
+	url = git@github.com:nisarg1631/KGP_Academics_First_Year.git
+[submodule "Fifth_Year"]
+	path = Fifth_Year
+	url = git@github.com:nisarg1631/KGP_Academics_Fifth_Year.git
+[submodule "Second_Year"]
+	path = Second_Year
+	url = git@github.com:nisarg1631/KGP_Academics_Second_Year.git
+[submodule "Third_Year"]
+	path = Third_Year
+	url = git@github.com:nisarg1631/KGP_Academics_Third_Year.git
+[submodule "Fourth_Year"]
+	path = Fourth_Year
+	url = git@github.com:nisarg1631/KGP_Academics_Fourth_Year.git
+[submodule "Repositories/OSP"]
+	path = Repositories/OSP
+	url = git@github.com:nisarg1631/OSP.git
+[submodule "Repositories/COA_LAB_AUTUMN_2021"]
+	path = Repositories/COA_LAB_AUTUMN_2021
+	url = git@github.com:nisarg1631/COA_LAB_AUTUMN_2021.git
+[submodule "Repositories/COMPILERS_LAB_AUTUMN_2021"]
+	path = Repositories/COMPILERS_LAB_AUTUMN_2021
+	url = git@github.com:nisarg1631/COMPILERS_LAB_AUTUMN_2021.git
+[submodule "Repositories/OS_LAB"]
+	path = Repositories/OS_LAB
+	url = git@github.com:nisarg1631/OS_LAB.git
+[submodule "Repositories/NETWORKS_LAB"]
+	path = Repositories/NETWORKS_LAB
+	url = git@github.com:nisarg1631/NETWORKS_LAB.git
+[submodule "Repositories/Railway-Booking-System"]
+	path = Repositories/Railway-Booking-System
+	url = git@github.com:nisarg1631/Railway-Booking-System.git
+[submodule "Repositories/DS-Assignment-1"]
+	path = Repositories/DS-Assignment-1
+	url = git@github.com:nisarg1631/DS-Assignment-1.git
+[submodule "Repositories/connectify"]
+	path = Repositories/connectify
+	url = git@github.com:nisarg1631/connectify.git
+[submodule "Repositories/Connectify-Fault-Tolerant-Queueing-Service"]
+	path = Repositories/Connectify-Fault-Tolerant-Queueing-Service
+	url = git@github.com:nisarg1631/Connectify-Fault-Tolerant-Queueing-Service.git
+[submodule "Repositories/Weather-Image-Recognition"]
+	path = Repositories/Weather-Image-Recognition
+	url = git@github.com:nisarg1631/Weather-Image-Recognition.git
+[submodule "Repositories/CBP-Project"]
+	path = Repositories/CBP-Project
+	url = git@github.com:nisarg1631/CBP-Project.git
